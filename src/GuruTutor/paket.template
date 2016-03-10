@@ -4,11 +4,11 @@ owners
 authors 
     Andrew M Olney
 projectUrl
-    http://github.com/aolney@memphis.edu/GuruTutor
+    http://github.com/aolney/GuruTutor
 iconUrl
-    https://raw.githubusercontent.com/aolney@memphis.edu/GuruTutor/master/docs/files/img/logo.png
+    https://raw.githubusercontent.com/aolney/GuruTutor/master/docs/files/img/logo.png
 licenseUrl
-    http://github.com/aolney@memphis.edu/GuruTutor/blob/master/LICENSE.txt
+    http://github.com/aolney/GuruTutor/blob/master/LICENSE.txt
 requireLicenseAcceptance
     false
 copyright
