@@ -1,0 +1,23 @@
+type project
+owners
+    Andrew M Olney
+authors 
+    Andrew M Olney
+projectUrl
+    http://github.com/aolney@memphis.edu/GuruTutor
+iconUrl
+    https://raw.githubusercontent.com/aolney@memphis.edu/GuruTutor/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/aolney@memphis.edu/GuruTutor/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    its,guru,gnututor,tutor,dialogue,learning,education,ai,nlp
+summary
+    This is a redesign and extension of the original Guru project funded by the Institute of Education Sciences from 2008-20edesign incorporates the previous GnuTutor project and represents the next stage of that project. The name change to GuruTutor reflects that the name GnuTutor is no longer appropriate for code that does not use a GPL license.
+description
+    This is a redesign and extension of the original Guru project funded by the Institute of Education Sciences from 2008-2012. The redesign incorporates the previous GnuTutor project and represents the next stage of that project. The name change to GuruTutor reflects that the name GnuTutor is no longer appropriate for code that does not use a GPL license.
+
+
