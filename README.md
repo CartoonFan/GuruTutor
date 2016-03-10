@@ -1,38 +1,38 @@
-[![Issue Stats](http://issuestats.com/github/fsprojects/ProjectScaffold/badge/issue)](http://issuestats.com/github/fsprojects/ProjectScaffold)
-[![Issue Stats](http://issuestats.com/github/fsprojects/ProjectScaffold/badge/pr)](http://issuestats.com/github/fsprojects/ProjectScaffold)
+[![Issue Stats](http://issuestats.com/github/aolney/GuruTutor/badge/issue)](http://issuestats.com/github/aolney/GuruTutor)
+[![Issue Stats](http://issuestats.com/github/aolney/GuruTutor/badge/pr)](http://issuestats.com/github/aolney/GuruTutor)
 
-# ProjectScaffold
+# GuruTutor
 
-This project can be used to scaffold a prototypical .NET solution including file system layout and tooling. This includes a build process that: 
+GuruTutor is a redesign of two previous projects:
 
-* updates all AssemblyInfo files
-* compiles the application and runs all test projects
-* generates [SourceLinks](https://github.com/ctaggart/SourceLink)
-* generates API docs based on XML document tags
-* generates [documentation based on Markdown files](http://fsprojects.github.io/ProjectScaffold/writing-docs.html)
-* generates [NuGet](http://www.nuget.org) packages
-* and allows a simple [one step release process](http://fsprojects.github.io/ProjectScaffold/release-process.html).
+* GnuTutor
+* Guru
 
-In order to start the scaffolding process run 
+Both of these projects were *intelligent tutoring systems (ITS)*, which are computer programs that try to emulate human tutors. These projects in particular are *conversational* ITS, meaning that they tutor by holding a natural language conversation with the student.
 
-    > build.cmd // on windows    
-    $ ./build.sh  // on unix
-    
+GuruTutor attempts to update GnuTutor with some of the ideas from Guru, but does not have the complete functionality of Guru.
+
+Disclaimer:
+
+Guru was supported by the Institute of Education Sciences, U.S. Department of Education, through Grant R305A080594 to the University of Memphis. The opinions expressed are those of the authors and do not represent views of the Institute or the U.S. Department of Education.
+
+# Developers
+
+This project uses the [ProjectScaffold](http://fsprojects.github.io/ProjectScaffold/) template for build, CI, documentation, and release.
+
 Read the [Getting started tutorial](http://fsprojects.github.io/ProjectScaffold/index.html#Getting-started) to learn more.
 
-Documentation: http://fsprojects.github.io/ProjectScaffold
+Documentation: http://aolney.github.io/GuruTutor
 
 
 ## Build Status
 
 Mono | .NET
 ---- | ----
-[![Mono CI Build Status](https://img.shields.io/travis/fsprojects/ProjectScaffold/master.svg)](https://travis-ci.org/fsprojects/ProjectScaffold) | [![.NET Build Status](https://img.shields.io/appveyor/ci/fsgit/ProjectScaffold/master.svg)](https://ci.appveyor.com/project/fsgit/projectscaffold)
+[![Mono CI Build Status](https://img.shields.io/travis/aolney/GuruTutor/master.svg)](https://travis-ci.org/aolney/GuruTutor) | [![.NET Build Status](https://img.shields.io/appveyor/ci/aolney/GuruTutor/master.svg)](https://ci.appveyor.com/project/aolney/GuruTutor)
 
 ## Maintainer(s)
 
-- [@forki](https://github.com/forki)
-- [@pblasucci](https://github.com/pblasucci)
-- [@sergey-tihon](https://github.com/sergey-tihon)
+- [@aolney](https://github.com/aolney)
 
-The default maintainer account for projects under "fsprojects" is [@fsprojectsgit](https://github.com/fsprojectsgit) - F# Community Project Incubation Space (repo management)
+
