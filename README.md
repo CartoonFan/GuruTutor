@@ -8,11 +8,11 @@ GuruTutor is a redesign of two previous projects:
 * GnuTutor
 * Guru
 
-Both of these projects were *intelligent tutoring systems (ITS)*, which are computer programs that try to emulate human tutors. These projects in particular are *conversational* ITS, meaning that they tutor by holding a natural language conversation with the student.
+Both of these projects were **intelligent tutoring systems (ITS)**, which are computer programs that try to emulate human tutors. These projects in particular are **conversational** ITS, meaning that they tutor by holding a natural language conversation with the student.
 
 GuruTutor attempts to update GnuTutor with some of the ideas from Guru, but does not have the complete functionality of Guru.
 
-Disclaimer:
+**Disclaimer:**
 
 Guru was supported by the Institute of Education Sciences, U.S. Department of Education, through Grant R305A080594 to the University of Memphis. The opinions expressed are those of the authors and do not represent views of the Institute or the U.S. Department of Education.
 
